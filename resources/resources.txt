@@ -1,10 +1,14 @@
 Folders :  backend
 movies (frontend)
 
-installation :
+Backend installation :
 
 npm i cors;
 npm i express;
 npm i nodemon;
 npm i react-router-dom;
 npm i mongodb;
+
+
+Database useraname : rohitchornele
+Database password : Rohit@1997
